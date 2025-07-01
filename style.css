@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+.table {
+  width: 55%;
+  border-collapse: collapse;
+  margin: 0 auto;
+  margin-top: 180px;
+}
+
+th, td {
+  border: 1px solid black;
+  padding: 8px 12px;
+}
+
+th {
+  background-color: whitesmoke;
+}
+
